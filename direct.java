@@ -2,7 +2,7 @@ import java.util.*;
 
 // code for direct mapping
 
-public class part1 {
+public class direct {
 
 	static int[] tag;
 	static double[][] data;
